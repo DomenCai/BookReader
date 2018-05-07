@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookReader</string>
+    <string name="read_progress">阅读进度</string>
+    <string name="text_size">字体大小</string>
+    <string name="brightness">亮度调节</string>
+    <string name="background">背景颜色</string>
+    <string name="volume_flip">音量键翻页</string>
+</resources>
